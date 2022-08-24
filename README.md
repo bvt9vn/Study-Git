@@ -8,3 +8,8 @@
 
 ## Tips
 github.dev using "." on repo.
+
+# Others
+
+- Gitops
+- CI/CD: Github action, Gitlab CI.
